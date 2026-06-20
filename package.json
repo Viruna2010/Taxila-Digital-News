@@ -1,0 +1,7 @@
+{
+  "name": "cloud-stealth-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
