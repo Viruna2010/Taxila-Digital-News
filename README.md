@@ -102,4 +102,4 @@ The production instance is fully optimized for global distribution via edge CDN 
 * **Interactive Live Broadcast Node:** Embedding ultra-low latency automated live stream widgets for urgent breaking news broadcasts.
 
 ---
-Developed with 💻, 🔥, and absolute dedication to technical excellence by **Taxila News Dev Team**.
+Developed with 💻, 🔥, and absolute dedication to technical excellence by **Viruna Randinu**.
