@@ -3,6 +3,12 @@
 
 ---
 
+## ⚠️ Legal Disclaimer & Licensing
+**STRICTLY PROPRIETARY AND CONFIDENTIAL.**
+This system, including its entire source code, UI/UX conceptual designs, cryptographic implementations, and associated digital assets, is the sole intellectual property of the owner. **No individual, organization, third-party developer, or entity is permitted to clone, copy, modify, distribute, host, or deploy this project, either partially or fully, without explicit, prior written permission from the owner.** Unauthorized usage, reverse engineering, unpermitted local hosting, or reproduction of any component within this repository is strictly prohibited and subject to legal action.
+
+---
+
 ## 🌐 Overview
 **Taxila Digital News** (`https://taxilanews.xyz`) is a state-of-the-art web portal engineered to deliver high-fidelity, real-time news broadcasting combined with an advanced, robust cryptographic authentication gateway. Built with modern web standards, it merges a premium, immersive user experience with cutting-edge client-side and backend engineering to ensure secure data distribution and beautiful visual layouts.
 
@@ -54,36 +60,6 @@ taxila-digital-news/
 │   └── index.html          # Main portal landing page and secure gateway
 ├── README.md               # System documentation & technical manuals
 └── package.json            # Project dependencies and deployment scripts
-```
-
----
-
-## ⚙️ Installation & Local Setup
-
-To clone, test, and host the **Taxila Digital News** portal locally, execute the following steps:
-
-### Prerequisites
-Ensure you have [Node.js](https://nodejs.org/) (v16.x or higher) installed.
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/taxila-digital-news.git
-cd taxila-digital-news
-```
-
-### 2. Initialize and Install Dependencies (If extending with Backend)
-```bash
-npm install
-```
-
-### 3. Running Natively on a Local Server
-For static deployments, simply serve the root folder using any lightweight live server extension or run:
-```bash
-npx live-server
-```
-The application will launch automatically at `http://127.0.0.1:5500`.
-
----
 
 ## 🔒 Cryptographic Implementation Flowchart
 
